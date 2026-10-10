@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aiosignal",
+  "versions": [
+    {
+      "commit": "63b413b5c370d9bb9b57cb570863cfbe6694bf30",
+      "tag": "",
+      "parsed_at": "2026-10-10T16:07:03.753635+00:00"
+    }
+  ]
+}
